@@ -1,6 +1,6 @@
 # Zoom on Html5 games to make them full screen ready
 
-Those files have been created for [smarjeux](https://www.smartjeux.com/) to make html5 games with fixed size full screen ready even they are not.
+Those files have been created for [smartjeux](https://www.smartjeux.com/) to make html5 games with fixed size full screen ready even they are not.
 
 It’s basically uses zoom to make games bigger for bigger screen.
 
